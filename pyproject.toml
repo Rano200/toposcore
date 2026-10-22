@@ -1,0 +1,24 @@
+[project]
+name = "toposcore"
+version = "0.1.0"
+description = "No-C++-build implementation of the Vesuvius surface-detection TopoScore (Betti matching)"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+dependencies = ["numpy>=1.24", "numba>=0.59", "scipy>=1.10"]
+
+[project.optional-dependencies]
+tiff = ["tifffile", "imagecodecs"]
+nifti = ["nibabel"]
+torch = ["torch"]
+test = ["pytest", "scipy"]
+
+[project.scripts]
+toposcore = "toposcore.__main__:main"
+
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["toposcore*"]

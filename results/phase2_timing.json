@@ -1,0 +1,82 @@
+[
+ {
+  "n": 64,
+  "kind": "smooth",
+  "seconds": 1.58,
+  "num_matched": [
+   609,
+   868,
+   186
+  ],
+  "num_unmatched_input1": [
+   217,
+   400,
+   93
+  ],
+  "num_unmatched_input2": [
+   10739,
+   9848,
+   823
+  ]
+ },
+ {
+  "n": 64,
+  "kind": "noise",
+  "seconds": 4.63,
+  "num_matched": [
+   17359,
+   16249,
+   2202
+  ],
+  "num_unmatched_input1": [
+   20760,
+   31577,
+   6467
+  ],
+  "num_unmatched_input2": [
+   20722,
+   31786,
+   6608
+  ]
+ },
+ {
+  "n": 128,
+  "kind": "smooth",
+  "seconds": 16.86,
+  "num_matched": [
+   4482,
+   7038,
+   1698
+  ],
+  "num_unmatched_input1": [
+   1971,
+   3361,
+   897
+  ],
+  "num_unmatched_input2": [
+   86079,
+   80475,
+   6813
+  ]
+ },
+ {
+  "n": 128,
+  "kind": "noise",
+  "seconds": 47.39,
+  "num_matched": [
+   137785,
+   131865,
+   19395
+  ],
+  "num_unmatched_input1": [
+   164203,
+   257239,
+   54646
+  ],
+  "num_unmatched_input2": [
+   164559,
+   256708,
+   54889
+  ]
+ }
+]

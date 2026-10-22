@@ -1,0 +1,58 @@
+[
+ {
+  "n": 64,
+  "batch": 2,
+  "workers": 1,
+  "default": false,
+  "seconds": 1.78
+ },
+ {
+  "n": 64,
+  "batch": 2,
+  "workers": 8,
+  "default": true,
+  "seconds": 1.18
+ },
+ {
+  "n": 64,
+  "batch": 4,
+  "workers": 1,
+  "default": false,
+  "seconds": 3.48
+ },
+ {
+  "n": 64,
+  "batch": 4,
+  "workers": 8,
+  "default": true,
+  "seconds": 1.38
+ },
+ {
+  "n": 96,
+  "batch": 2,
+  "workers": 1,
+  "default": false,
+  "seconds": 7.42
+ },
+ {
+  "n": 96,
+  "batch": 2,
+  "workers": 8,
+  "default": true,
+  "seconds": 5.15
+ },
+ {
+  "n": 96,
+  "batch": 4,
+  "workers": 1,
+  "default": false,
+  "seconds": 15.19
+ },
+ {
+  "n": 96,
+  "batch": 4,
+  "workers": 8,
+  "default": true,
+  "seconds": 5.83
+ }
+]

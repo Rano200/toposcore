@@ -1,0 +1,12 @@
+{"case": "sample_00808", "shape": [80, 80, 80], "workers": 1, "what": "topo", "seconds": 0.4, "peak_mb": 246, "value": "0.16964681542781143"}
+{"case": "sample_00808", "shape": [80, 80, 80], "workers": 1, "what": "full", "seconds": 0.44, "peak_mb": 246, "value": "0.5742172282756298"}
+{"case": "sample_00808", "shape": [80, 80, 80], "workers": "default", "what": "topo", "seconds": 0.11, "peak_mb": 246, "value": "0.16964681542781143"}
+{"case": "sample_00808", "shape": [80, 80, 80], "workers": "default", "what": "full", "seconds": 0.15, "peak_mb": 246, "value": "0.5742172282756298"}
+{"case": "sample_00808", "shape": [160, 160, 160], "workers": 1, "what": "topo", "seconds": 6.54, "peak_mb": 246, "value": "0.4556947239146002"}
+{"case": "sample_00808", "shape": [160, 160, 160], "workers": 1, "what": "full", "seconds": 6.75, "peak_mb": 246, "value": "0.6470350532585534"}
+{"case": "sample_00808", "shape": [160, 160, 160], "workers": "default", "what": "topo", "seconds": 1.6, "peak_mb": 747, "value": "0.4556947239146002"}
+{"case": "sample_00808", "shape": [160, 160, 160], "workers": "default", "what": "full", "seconds": 1.86, "peak_mb": 746, "value": "0.6470350532585534"}
+{"case": "sample_00808", "shape": [320, 320, 320], "workers": 1, "what": "topo", "seconds": 27.15, "peak_mb": 971, "value": "0.4415383895569176"}
+{"case": "sample_00808", "shape": [320, 320, 320], "workers": 1, "what": "full", "seconds": 28.49, "peak_mb": 971, "value": "0.6250725606333589"}
+{"case": "sample_00808", "shape": [320, 320, 320], "workers": "default", "what": "topo", "seconds": 14.71, "peak_mb": 1537, "value": "0.4415383895569176"}
+{"case": "sample_00808", "shape": [320, 320, 320], "workers": "default", "what": "full", "seconds": 16.32, "peak_mb": 1539, "value": "0.6250725606333589"}
